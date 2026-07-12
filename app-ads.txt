@@ -172,7 +172,7 @@ xandr.com, 15840, RESELLER
 
 
 
-OWNERDOMAIN=[yourdomain.com]
+OWNERDOMAIN=anishsingha.github.io
 ironsrc.com, 667405, Direct
 
 
